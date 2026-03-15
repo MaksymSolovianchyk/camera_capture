@@ -1,1 +1,11 @@
+# macOS
 .DS_Store
+
+# CLion / IntelliJ
+.idea/
+
+# CMake build folders
+cmake-build-*/
+
+# Build files
+build/
