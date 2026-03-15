@@ -3,4 +3,4 @@ project(camera_capture)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(camera_capture main.cpp)
+add_executable(camera_capture src/main.cpp)
